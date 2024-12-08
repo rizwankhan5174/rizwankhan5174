@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rizwankhan5174
 - 👀 I’m interested in backend coding.
-- 🌱 I’m currently learning laravel.
-- 💞️ I’m looking to collaborate on laravel 9.x.
+- 🌱 I’m currently learning Java, Javascript
 - 📫 rizwan5019@gmail.com ...
 
 <!---
